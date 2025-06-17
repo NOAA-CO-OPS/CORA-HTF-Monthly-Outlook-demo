@@ -11,7 +11,7 @@ This repository holds demos of a gridded Monthly High Tide Flooding Outlook prod
 
 ## Website
 
-The demo can be found here.
+The demo can be found [here](https://noaa-co-ops.github.io/CORA-HTF-Monthly-Outlook-demo/demo_Pulaski2Charleston.html).
 
 
 ## Disclaimer
