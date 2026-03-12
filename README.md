@@ -12,8 +12,8 @@ This repository holds demos of a gridded Monthly High Tide Flooding Outlook prod
 ## Websites
 
 The following demos are available at URLs:
-- [U.S. Southeast coast from Savannah to Charleston, hindcast predictions](https://noaa-co-ops.github.io/CORA-HTF-Monthly-Outlook-demo/demo_Pulaski2Charleston.html)
-- [State of New Hampshire, real-time predictions](https://noaa-co-ops.github.io/CORA-HTF-Monthly-Outlook-demo/demo_NH_predictions.html)
+- [Greater Charleston area, real-time predictions](https://noaa-co-ops.github.io/CORA-HTF-Monthly-Outlook-demo/demo_Charleston.html)
+- [State of New Hampshire, real-time predictions](https://noaa-co-ops.github.io/CORA-HTF-Monthly-Outlook-demo/demo_NH.html)
 
 
 ## Disclaimer
